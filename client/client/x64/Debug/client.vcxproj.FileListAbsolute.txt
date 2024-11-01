@@ -1,0 +1,2 @@
+C:\Users\folad\source\repos\client\client\x64\Debug\client.exe
+C:\Users\folad\source\repos\Folader\localserv\client\client\x64\Debug\client.exe

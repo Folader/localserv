@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\folad\\source\\repos\\Folader\\localserv\\server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38BB9240-27E9-4161-80F0-001FCD7432D7}|..\\client\\client\\client.vcxproj|C:\\Users\\folad\\source\\repos\\Folader\\localserv\\client\\client\\client.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFCF980F-AA5D-4A95-A657-D18E6C4284CD}|server\\server.vcxproj|C:\\Users\\folad\\source\\repos\\Folader\\localserv\\server\\server\\server.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FFCF980F-AA5D-4A95-A657-D18E6C4284CD}|server\\server.vcxproj|solutionrelative:server\\server.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "client.cpp",
+              "DocumentMoniker": "C:\\Users\\folad\\source\\repos\\Folader\\localserv\\client\\client\\client.cpp",
+              "RelativeDocumentMoniker": "..\\client\\client\\client.cpp",
+              "ToolTip": "C:\\Users\\folad\\source\\repos\\Folader\\localserv\\client\\client\\client.cpp",
+              "RelativeToolTip": "..\\client\\client\\client.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAnwCUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-01T13:50:02.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "server.cpp",
+              "DocumentMoniker": "C:\\Users\\folad\\source\\repos\\Folader\\localserv\\server\\server\\server.cpp",
+              "RelativeDocumentMoniker": "server\\server.cpp",
+              "ToolTip": "C:\\Users\\folad\\source\\repos\\Folader\\localserv\\server\\server\\server.cpp",
+              "RelativeToolTip": "server\\server.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-01T13:50:00.987Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
